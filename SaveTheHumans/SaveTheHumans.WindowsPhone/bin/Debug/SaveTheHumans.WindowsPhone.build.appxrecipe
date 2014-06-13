@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISUED-PC</Machine>
+    <WindowsUser>isued</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fffe4494-7ff0-4062-afa3-c57f4a36ad7f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\bin\Debug\SaveTheHumans.WindowsPhone.exe">
+      <PackagePath>SaveTheHumans.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\bin\Debug\SaveTheHumans.WindowsPhone.xr.xml">
+      <PackagePath>SaveTheHumans.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

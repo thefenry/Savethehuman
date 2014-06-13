@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISUED-PC</Machine>
+    <WindowsUser>isued</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7cd44188-76bc-4458-8005-74309145ef36</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3149FFDE6EC4B8C93678FEA36E87A206DCCB5C55221768AB30B7465BB9E1F8AE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7cd44188-76bc-4458-8005-74309145ef36_1.0.0.0_neutral__6zzyrgk56h2bg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7cd44188-76bc-4458-8005-74309145ef36_6zzyrgk56h2bg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7cd44188-76bc-4458-8005-74309145ef36</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=isued</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-13T21:13:38.727</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\bin\Debug\SaveTheHumans.Windows.exe">
+      <PackagePath>SaveTheHumans.Windows.exe</PackagePath>
+      <Modified>2014-06-13T22:25:26.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-13T04:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-13T18:04:34.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-13T22:25:26.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\bin\Debug\SaveTheHumans.Windows.xr.xml">
+      <PackagePath>SaveTheHumans.Windows.xr.xml</PackagePath>
+      <Modified>2014-06-13T22:25:26.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isued.MTXEPS\Documents\SaveTheHumans\SaveTheHumans\SaveTheHumans.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-13T21:13:38.620</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
